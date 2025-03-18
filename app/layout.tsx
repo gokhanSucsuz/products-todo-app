@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Berkshire_Swash, Bungee_Shade, Creepster, Emblema_One, Geist, Geist_Mono, Lobster, Spicy_Rice, Yatra_One, Yeseva_One } from "next/font/google";
+import { Geist, Geist_Mono, Yeseva_One } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "react-hot-toast";
 
